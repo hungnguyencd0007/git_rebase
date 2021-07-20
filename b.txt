@@ -1,3 +1,7 @@
 noi dung b.c2
 
-noi dung b.b1 
+noi dung b.b1
+
+
+
+noi dung b.b2
