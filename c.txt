@@ -1,1 +1,3 @@
 noi dung c.c2
+
+noi dung c.d2
